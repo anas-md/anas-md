@@ -1,16 +1,14 @@
 ## Hi there 👋
+**I'm Anas** - I'm a fullstack developer and data analyst.
 
-<!--
-**anas-md/anas-md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Check out my [portfolio](https://anasdaud.my).
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anas-md&theme=default&show_icons=true&hide_border=false&count_private=true" alt="anas-md's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=anas-md&theme=default&hide_border=false" alt="anas-md's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-md&theme=default&show_icons=true&hide_border=false&layout=compact" alt="anas-md's GitHub Stats" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skills
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,bootstrap,npm,vite,wordpress,nodejs,php,py,java,c,cpp,matlab,nextjs,vue,react,angular,express,nestjs,laravel,flask,mongodb,mysql,postgres,git,github,docker,figma,reactivex,spring,sqlite,prisma,supabase,jest,jenkins,nginx,postman,azure,aws,obsidian,vscode)](https://skillicons.dev)<br/>
+
